@@ -248,13 +248,9 @@ We welcome contributions to improve and extend this pipeline! Here are several w
 - Adding tests
 - Fixing known issues
 
-If you have any suggestions, questions, or would like to discuss potential contributions, feel free to contact us! We appreciate all contributions, big or small!
+If you have any suggestions, questions, or would like to discuss potential contributions, feel free to contact us on Github! We appreciate all contributions, big or small!
 
-- **Christine ANTON JESUTHASAN**: [christine.anton30@gmail.com](mailto:christine.anton30@gmail.com)
-- **Ndeye Fatou DIENG**: [dnfatou18@gmail.com](mailto:dnfatou18@gmail.com)
-- **Cheikh LO**: [lochedithe@gmail.com](mailto:lochedithe@gmail.com)
-- **Adi THOHA**: [alyas.fani@gmail.com](mailto:alyas.fani@gmail.com)
-- **Badiallo DRAMÉ**: [badiallo65@gmail.com](mailto:badiallo65@gmail.com)
+
 
 
 
