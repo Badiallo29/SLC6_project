@@ -128,7 +128,7 @@ b. If no environment exists, create it (it contains all required dependencies):
 - Then navigate to your preferred path: `cd your_path/envs`
 - And create the environment: `conda env create -f environment.yml -p your_env_name`
 
-c. If a library is missing, add it to `environment.yml` and recreate or update the environment.
+c. If a library is missing, add it to `envs/environment.yml` and recreate or update the environment.
 
 ### 2. Nextflow (≥21.04)
 
@@ -252,6 +252,7 @@ We welcome contributions to improve and extend this pipeline! Here are several w
 - Fixing known issues
 
 If you have any suggestions, questions, or would like to discuss potential contributions, feel free to contact us on Github! We appreciate all contributions, big or small!
+
 
 
 
