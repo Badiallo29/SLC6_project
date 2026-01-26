@@ -1,0 +1,549 @@
+MODEL 1
+REMARK VINA RESULT:      -5.6      0.000      0.000
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     151.217 199.004 137.210  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     150.183 198.505 137.735  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     150.295 197.358 138.590  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     149.424 196.966 139.014  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     148.855 199.093 137.473  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     148.118 198.750 136.406  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     146.785 199.327 136.106  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     146.079 200.125 137.029  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     144.819 200.636 136.702  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     144.245 200.352 135.461  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     144.926 199.551 134.541  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     146.190 199.036 134.866  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     144.341 199.270 133.309  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     143.335 199.199 133.204  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     151.584 196.717 138.870  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     151.350 195.324 139.385  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     151.690 194.329 138.690  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     150.781 195.132 140.640  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     151.357 194.911 141.443  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     152.381 197.550 139.892  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     153.815 197.738 139.464  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     154.573 196.646 139.009  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     155.892 196.830 138.585  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     156.463 198.106 138.606  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     155.713 199.200 139.047  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     154.393 199.019 139.473  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.4      2.079      2.804
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     150.556 197.093 138.640  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     150.263 198.303 138.430  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     150.665 199.312 139.368  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     150.412 200.306 139.168  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     149.506 198.688 137.223  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     148.172 198.566 137.145  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     147.380 198.934 135.946  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     146.108 199.536 136.033  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     145.396 199.852 134.872  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     145.935 199.567 133.616  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     147.188 198.957 133.514  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     147.905 198.637 134.677  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     147.712 198.671 132.256  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     148.476 199.209 131.865  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     151.399 198.987 140.595  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     150.661 199.541 141.782  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     149.810 200.457 141.624  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     150.900 199.026 143.052  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     151.536 198.249 143.187  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     152.829 199.558 140.527  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     153.753 198.663 139.740  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     154.824 199.208 139.012  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     155.696 198.373 138.309  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     155.510 196.987 138.330  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     154.453 196.436 139.059  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     153.578 197.269 139.765  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.0      1.575      2.256
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     150.925 199.778 139.486  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     150.605 198.935 138.603  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     151.223 197.639 138.591  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     150.938 196.958 137.851  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     149.598 199.272 137.578  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     148.437 198.610 137.471  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     147.407 198.915 136.448  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     147.530 198.508 135.103  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     146.536 198.831 134.174  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     145.417 199.567 134.568  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     145.289 199.991 135.893  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     146.284 199.670 136.828  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     144.172 200.731 136.272  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     144.043 201.047 137.226  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     152.245 197.254 139.569  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     151.614 197.123 140.928  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     150.922 196.107 141.206  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     151.813 198.111 141.887  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     152.678 198.160 142.411  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     153.378 198.298 139.594  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     154.416 198.023 138.534  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     154.558 198.887 137.435  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     155.541 198.646 136.471  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     156.393 197.545 136.599  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     156.266 196.687 137.695  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     155.283 196.925 138.662  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.9      2.507      3.168
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     151.983 198.120 137.731  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     150.907 198.636 138.142  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     150.743 198.937 139.536  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     149.843 199.367 139.850  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     149.812 198.932 137.198  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     148.521 198.826 137.544  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     147.395 199.105 136.620  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     146.275 199.873 136.998  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     145.233 200.097 136.093  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     145.290 199.555 134.807  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     146.386 198.779 134.422  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     147.432 198.551 135.328  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     146.427 198.239 133.139  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     146.794 197.310 132.967  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     151.786 198.646 140.524  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     151.951 197.157 140.655  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     151.068 196.474 141.241  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     153.066 196.529 140.110  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     153.099 196.293 139.125  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     151.424 199.275 141.883  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     152.646 199.770 142.615  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     153.736 200.300 141.905  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     154.854 200.785 142.589  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     154.891 200.751 143.986  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     153.807 200.234 144.701  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     152.686 199.748 144.020  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.7      4.677      6.786
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     154.392 195.997 139.393  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     154.454 197.170 138.931  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     155.496 197.525 138.009  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     155.523 198.502 137.641  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     153.462 198.185 139.336  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     152.438 197.899 140.154  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     151.417 198.890 140.573  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     150.503 199.467 139.667  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     149.567 200.406 140.111  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     149.535 200.787 141.454  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     150.444 200.236 142.361  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     151.385 199.294 141.919  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     150.406 200.629 143.695  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     149.903 200.093 144.393  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     156.522 196.566 137.588  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     157.510 196.366 138.704  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     158.404 197.229 138.916  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     157.423 195.242 139.518  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     156.523 194.854 139.774  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     157.232 197.070 136.317  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     157.212 196.038 135.217  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     157.055 196.427 133.877  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     157.069 195.470 132.858  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     157.244 194.118 133.169  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     157.411 193.723 134.499  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     157.399 194.678 135.521  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.6      3.276      8.015
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     150.446 199.716 138.902  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     151.086 199.072 138.025  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     150.602 199.023 136.675  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     151.152 198.484 135.968  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     152.331 198.363 138.380  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     153.494 198.605 137.757  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     154.762 197.905 138.079  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     154.801 196.719 138.840  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     156.024 196.104 139.128  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     157.218 196.665 138.671  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     157.197 197.849 137.929  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     155.972 198.469 137.639  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     158.395 198.403 137.485  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     158.497 199.400 137.341  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     149.360 199.688 136.268  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     148.210 198.729 136.405  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     147.518 198.426 135.396  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     147.923 198.158 137.641  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     147.898 198.723 138.481  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     149.478 200.194 134.817  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     150.784 199.784 134.185  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     151.962 200.501 134.456  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     153.177 200.100 133.893  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     153.227 198.978 133.060  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     152.062 198.254 132.793  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     150.845 198.652 133.355  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.5      3.436      8.655
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     152.813 199.251 139.494  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     153.108 198.547 138.489  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     152.387 198.714 137.259  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     152.654 198.119 136.442  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     154.191 197.547 138.571  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     155.255 197.577 137.755  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     156.356 196.584 137.802  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     156.932 196.035 136.638  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     157.960 195.093 136.735  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     158.420 194.681 137.988  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     157.850 195.205 139.151  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     156.817 196.150 139.057  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     158.313 194.781 140.394  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     158.756 193.878 140.515  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     151.289 199.674 137.124  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     149.975 198.959 137.282  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     148.977 199.317 136.602  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     149.868 197.887 138.162  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     150.688 197.368 138.451  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     151.363 200.380 135.757  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     152.156 199.579 134.755  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     151.501 198.861 133.740  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     152.241 198.144 132.795  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     153.638 198.143 132.852  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     154.297 198.863 133.852  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     153.560 199.582 134.799  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.4      2.516      4.071
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     152.912 196.832 140.101  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     152.602 197.789 139.339  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     153.630 198.536 138.670  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     153.346 199.323 138.043  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     151.186 198.150 139.132  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     150.740 198.661 137.975  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     149.327 199.044 137.735  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     148.575 199.791 138.665  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     147.242 200.117 138.397  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     146.641 199.698 137.209  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     147.368 198.944 136.284  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     148.705 198.614 136.550  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     146.755 198.526 135.105  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     146.013 197.836 135.109  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     155.053 198.239 138.853  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     155.761 199.465 139.361  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     156.957 199.685 139.031  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     155.087 200.369 140.176  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     154.267 200.087 140.699  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     155.674 197.763 137.525  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     156.577 196.572 137.724  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     157.190 195.952 136.622  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     158.051 194.867 136.813  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     158.311 194.397 138.104  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     157.713 195.014 139.206  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     156.852 196.100 139.019  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.2      2.978      8.715
+REMARK  Name = CHEMBL4239907
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_3
+REMARK    2  A    between atoms: C_4  and  C_5
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: N_12  and  CA_13
+REMARK    5  A    between atoms: CA_13  and  CB_14
+REMARK    6  A    between atoms: CA_13  and  C_21
+REMARK    7  A    between atoms: CB_14  and  CG_15
+REMARK    8  A    between atoms: C_21  and  OXT_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0     151.853 197.041 140.367  0.00  0.00    -0.271 OA
+ATOM      2  C   UNK A   0     152.627 197.419 139.444  0.00  0.00    +0.238 C 
+ATOM      3  N   PHE A   1     152.380 198.658 138.763  0.00  0.00    -0.299 N 
+ATOM      4  H   PHE A   1     153.038 198.948 138.004  0.00  0.00    +0.150 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C   UNK A   0     153.787 196.592 139.058  0.00  0.00    +0.068 C 
+ATOM      6  C   UNK A   0     154.986 197.126 138.783  0.00  0.00    +0.013 C 
+BRANCH   6   7
+ATOM      7  C   UNK A   0     156.170 196.327 138.382  0.00  0.00    -0.021 A 
+ATOM      8  C   UNK A   0     156.934 195.587 139.307  0.00  0.00    +0.008 A 
+ATOM      9  C   UNK A   0     158.050 194.859 138.880  0.00  0.00    +0.004 A 
+ATOM     10  C   UNK A   0     158.421 194.867 137.534  0.00  0.00    +0.045 A 
+ATOM     11  C   UNK A   0     157.683 195.608 136.608  0.00  0.00    +0.117 A 
+ATOM     12  C   UNK A   0     156.564 196.340 137.033  0.00  0.00    +0.053 A 
+BRANCH  11  13
+ATOM     13  O   UNK A   0     158.068 195.612 135.270  0.00  0.00    -0.507 OA
+ATOM     14  H   UNK A   0     158.940 195.196 134.967  0.00  0.00    +0.292 HD
+ENDBRANCH  11  13
+ENDBRANCH   6   7
+ENDBRANCH   2   5
+BRANCH   3  15
+ATOM     15  CA  PHE A   1     151.232 199.510 139.087  0.00  0.00    +0.186 C 
+BRANCH  15  16
+ATOM     16  C   PHE A   1     151.372 200.024 140.494  0.00  0.00    +0.326 C 
+ATOM     17  O   PHE A   1     152.354 200.749 140.806  0.00  0.00    -0.249 OA
+BRANCH  16  18
+ATOM     18  OXT PHE A   1     150.404 199.720 141.446  0.00  0.00    -0.479 OA
+ATOM     19  HXT PHE A   1     150.667 199.413 142.374  0.00  0.00    +0.295 HD
+ENDBRANCH  16  18
+ENDBRANCH  15  16
+BRANCH  15  20
+ATOM     20  CB  PHE A   1     149.919 198.721 138.924  0.00  0.00    +0.069 C 
+BRANCH  20  21
+ATOM     21  CG  PHE A   1     149.343 198.874 137.539  0.00  0.00    -0.045 A 
+ATOM     22  CD1 PHE A   1     147.975 198.650 137.308  0.00  0.00    +0.004 A 
+ATOM     23  CE1 PHE A   1     147.438 198.823 136.029  0.00  0.00    +0.000 A 
+ATOM     24  CZ  PHE A   1     148.261 199.224 134.972  0.00  0.00    +0.000 A 
+ATOM     25  CE2 PHE A   1     149.620 199.458 135.195  0.00  0.00    +0.000 A 
+ATOM     26  CD2 PHE A   1     150.161 199.287 136.474  0.00  0.00    +0.004 A 
+ENDBRANCH  20  21
+ENDBRANCH  15  20
+ENDBRANCH   3  15
+TORSDOF 8
+ENDMDL

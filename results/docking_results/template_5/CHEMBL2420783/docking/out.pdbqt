@@ -1,0 +1,38 @@
+MODEL 1
+REMARK VINA RESULT:      -4.2      0.000      0.000
+REMARK  Name = CHEMBL2420783
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_6  and  C_8
+REMARK    4  A    between atoms: C_9  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     146.623 181.343 110.551  0.00  0.00    +0.055 C 
+ATOM      2  C   UNL     1     147.370 180.358 111.070  0.00  0.00    +0.012 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  C   UNL     1     148.715 179.990 110.562  0.00  0.00    -0.024 A 
+ATOM      4  C   UNL     1     149.581 181.016 110.144  0.00  0.00    +0.008 A 
+ATOM      5  C   UNL     1     150.860 180.715 109.668  0.00  0.00    +0.002 A 
+ATOM      6  C   UNL     1     151.294 179.389 109.614  0.00  0.00    +0.015 A 
+ATOM      7  C   UNL     1     150.452 178.360 110.042  0.00  0.00    +0.018 A 
+ATOM      8 BR   UNL     1     151.058 176.550 109.987  0.00  0.00    -0.050 Br
+ATOM      9  C   UNL     1     149.170 178.655 110.519  0.00  0.00    +0.023 A 
+ENDBRANCH   2   3
+BRANCH   1  10
+ATOM     10  C   UNL     1     145.292 181.688 111.093  0.00  0.00    +0.221 C 
+ATOM     11  O   UNL     1     144.641 182.660 110.620  0.00  0.00    -0.284 OA
+BRANCH  10  16
+ATOM     12  C   UNL     1     141.954 179.387 113.871  0.00  0.00    +0.086 C 
+ATOM     13  C   UNL     1     143.273 179.896 113.396  0.00  0.00    +0.103 A 
+ATOM     14  C   UNL     1     144.484 179.711 114.036  0.00  0.00    +0.045 A 
+ATOM     15  C   UNL     1     145.419 180.358 113.257  0.00  0.00    +0.053 A 
+ATOM     16  C   UNL     1     144.716 180.899 112.195  0.00  0.00    +0.174 A 
+ATOM     17  O   UNL     1     143.440 180.608 112.306  0.00  0.00    -0.457 OA
+ENDBRANCH  10  16
+ENDBRANCH   1  10
+TORSDOF 3
+ENDMDL
