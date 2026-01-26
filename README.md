@@ -73,7 +73,7 @@ root_dir/
 ├── main.nf                     # Nextflow pipeline
 ├── envs/
 │   ├── environment.yml
-│   ├── slc6env.yml                   
+│   └── slc6env.yml                   
 ├── workflow_diagram.png
 ├── README.md
 └── CODE_OF_CONDUCT.md
@@ -252,6 +252,7 @@ We welcome contributions to improve and extend this pipeline! Here are several w
 - Fixing known issues
 
 If you have any suggestions, questions, or would like to discuss potential contributions, feel free to contact us on Github! We appreciate all contributions, big or small!
+
 
 
 
