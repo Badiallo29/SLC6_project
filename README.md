@@ -1,6 +1,6 @@
 ﻿# Paris_Team_2
 
-# README - MEET-EU PROJECT: SLC6A20 Selective Inhibitor Discovery Pipeline
+# MEET-EU PROJECT: SLC6A20 Selective Inhibitor Discovery Pipeline
 
 **Date:** Janvier 2026
 
@@ -255,6 +255,7 @@ If you have any suggestions, questions, or would like to discuss potential contr
 - **Cheikh LO**: [lochedithe@gmail.com](mailto:lochedithe@gmail.com)
 - **Adi THOHA**: [alyas.fani@gmail.com](mailto:alyas.fani@gmail.com)
 - **Badiallo DRAMÉ**: [badiallo65@gmail.com](mailto:badiallo65@gmail.com)
+
 
 
 
