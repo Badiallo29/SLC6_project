@@ -12,6 +12,7 @@
 - **Ndeye Fatou DIENG**
 - **Cheikh LO**
 - **Adi THOHA**
+
 - **Badiallo DRAMÉ**
 
 
@@ -32,6 +33,8 @@ SLC6A20 belongs to the SLC6 transporter family, whose members universally operat
 This pipeline focuses on identifying an **allosteric pocket in the outward-open conformation of SLC6A20**, which provides a promising opportunity to achieve selectivity over SLC6A19.
 
 ## Pipeline Architecture
+
+<img width="4535" height="3024" alt="Design Sans Titre - 1" src="https://github.com/user-attachments/assets/d098c996-c752-4666-8cf9-a0aeab8c3ba8" />
 
 The pipeline is organized into three major components:
 
